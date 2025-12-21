@@ -1,5 +1,5 @@
 # 🏥 Program Utilisation Report for Community Health Services #
-> 🔍 Identified **22% of service capacity lost** driven by cancellations and non-attendance, highlighting key utilisation gaps.
+> 🔍 An estimated **22% of service capacity** was lost due to cancellations and non-attendance, highlighting significant utilisation gaps. Analysis of these gaps identified the primary drivers as client demographics (age, gender, equity indicators, and risk factors), referral sources, and funding streams.
 
 ## 📘Project Background ##
 
@@ -179,6 +179,68 @@ This reflects the 25–34 age group’s comfort and familiarity with technology-
 
 - This highlights potential gaps in engagement or access for priority populations (CALD, NDIS, Indigenous, high DV risk), **signaling an opportunity for targeted outreach and support programs**.
 
+#### Cancellations and Did Not Attend Services ####
+
+- The increase in cancellations and non-attendance during this period was primarily driven by **Telehealth** services.
+
+<img width="967" height="486" alt="image" src="https://github.com/user-attachments/assets/2d19e361-dad0-49b6-a788-ae97575e2020" />
+
+
+
+- Cancellations and non-attendance are highest among clients aged **25-34** and **35-44**, with **females** accounting for the majority of these instances.
+
+<img width="840" height="457" alt="image" src="https://github.com/user-attachments/assets/297557ca-5126-4d82-a87e-733dd8642182" />
+
+<img width="842" height="470" alt="image" src="https://github.com/user-attachments/assets/5fb22a29-5e53-4ff0-b1ee-122700adfcdc" />
+
+
+- The spike in cancellations and non-attendance during this period was primarily driven by the general population, as expected.
+
+<img width="862" height="461" alt="image" src="https://github.com/user-attachments/assets/9a8bf99f-7bd9-4cab-832b-7a94ad848abb" />
+
+<img width="842" height="467" alt="image" src="https://github.com/user-attachments/assets/83e36518-e6ba-46e5-b1b4-7cf63c5db699" />
+
+<img width="875" height="486" alt="image" src="https://github.com/user-attachments/assets/5408a07a-1ac6-4c9a-81ba-d4597cc1830a" />
+
+<img width="882" height="480" alt="image" src="https://github.com/user-attachments/assets/457ce775-05fc-40c1-9779-55384030a46d" />
+
+
+- Cancellations and non-attendance by referral source were primarily driven by Self, Maternal & Child Health, and General Practitioner (GP) referrals. As these pathways originate from community and primary care settings, this suggests greater variability in client readiness, availability, or perceived urgency compared with referrals from non-profit and hospital-based sources.
+
+<img width="947" height="530" alt="image" src="https://github.com/user-attachments/assets/d81953a9-ca5f-40fb-bf3e-16cb6380b562" />
+
+
+- Services funded by the **Victorian Department of Health (VIC DOH)** accounted for the majority of cancellations and non-attendance during the observed spike period. .
+    - The majority of missed appointments were for services funded by the Victorian Department of Health.
+    - This suggests that state-funded services, often delivered in community and primary care settings, may experience higher variability in client attendance.
+    - Possible contributing factors include client readiness, perceived urgency of the service, or barriers such as transport, scheduling, or awareness.
+    - It may highlight a need for targeted interventions (e.g., reminder systems, engagement strategies) for state-funded programs to reduce lost capacity.
+
+<img width="858" height="543" alt="image" src="https://github.com/user-attachments/assets/2f315ae9-1e15-4909-8563-45c65347cb89" />
+
+
+**💡Recommendations**
+
+1. **Targeted Client Engagement for High-Risk Groups**
+    - Focus outreach on clients aged **25–44**, particularly females, who account for the majority of missed appointments.
+    - Implement tailored reminders (SMS, email, or phone) highlighting the importance of the service and offering flexible scheduling options.
+2. **Telehealth Service Optimization**
+    - Investigate barriers to Telehealth attendance (e.g., technology access, digital literacy, competing commitments).
+    - Provide clear guidance and support for clients before Telehealth appointments, such as pre-session checks or tutorials.
+3. **Referral Source Management**
+    - Collaborate with **Self, Maternal & Child Health, and GP referral sources** to improve client preparedness and engagement prior to the appointment.
+    - Consider pre-appointment check-ins or education about the service’s purpose to enhance perceived urgency and readiness.
+4. **State-Funded Program Enhancements**
+    - For **VIC DOH-funded services**, introduce targeted interventions such as:
+        - Appointment reminder systems with multiple touchpoints.
+        - Flexible booking and rescheduling options.
+        - Transport or access support where needed.
+    - Monitor attendance patterns regularly to identify periods or services with recurring spikes in non-attendance.
+5. **Data-Driven Monitoring and Continuous Improvement**
+    - Establish a dashboard to track cancellations and non-attendance by **service type, age group, gender, referral source, and funding stream**.
+    - Use insights to iteratively refine engagement strategies and resource allocation.
+  
+  
 ## **⚠️ Assumptions and Caveats** ##
 
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
